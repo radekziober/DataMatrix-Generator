@@ -1,0 +1,5 @@
+{
+  "name": "DataMatrix Generator",
+  "description": "Aplikacja do masowego generowania kodów DataMatrix i zapisywania ich do pliku PDF.",
+  "requestFramePermissions": []
+}
